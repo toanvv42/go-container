@@ -1,0 +1,4 @@
+rootfs/
+*.tar
+*.tar.gz
+go-container
